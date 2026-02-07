@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【重音テト】右に曲ガール【オリジナル】",
+  "base_artist": "はるふり",
+  "createdAt": "2026-02-07T19:07:25.005950Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "右に曲ガール",
+      "artist": "はるふり",
+      "has_synced": false,
+      "path": "select/pl_01_右に曲ガール_はるふり.txt"
+    }
+  ]
+}
